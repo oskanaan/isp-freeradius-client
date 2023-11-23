@@ -1,0 +1,10 @@
+.v-data-table .v-table__wrapper > table > thead > tr > th {
+  background-color: rgba(139,39,39,0.03)
+}
+
+.custom-dialog {
+  background-color: white;
+  border-radius: 12px; /* Rounded corners */
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2); /* Raised effect */
+  padding: 20px;
+}

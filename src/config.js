@@ -1,0 +1,16 @@
+export const API_CONFIG = {
+  baseURL: 'http://localhost:8100/api',
+  clientEndpoint: '/clients',
+  cityEndpoint: '/cities',
+  settingsEndpoint: '/configuration/settings',
+  nas: '/nas',
+  users: '/users',
+  radgroups: '/groups',
+  radgroupcheck: '/radgroupcheck',
+  radgroupreply: '/radgroupreply',
+  radusergroups: '/radusergroups',
+  radcheck: '/radcheck',
+  invoices: '/invoices',
+  radreply: '/radreply',
+  dictionary: '/dictionary',
+};
